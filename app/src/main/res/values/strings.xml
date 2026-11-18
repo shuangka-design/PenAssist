@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pen Assist</string>
+    <string name="service_name">Pen Assist – ปุ่มลอยปากกา</string>
+    <string name="service_desc">แสดงปุ่มลอยแบบ Air Command สำหรับเขียนบนหน้าจอ เลือกครอบตัด โน้ตด่วน และค้นหา/แปลภาพหน้าจอ แอปนี้ใช้สิทธิ์นี้เพื่อแสดงปุ่มลอยและจับภาพหน้าจอเมื่อคุณกดสั่งเท่านั้น ไม่อ่านเนื้อหาบนจอและไม่ส่งข้อมูลออกไปไหน</string>
+</resources>
